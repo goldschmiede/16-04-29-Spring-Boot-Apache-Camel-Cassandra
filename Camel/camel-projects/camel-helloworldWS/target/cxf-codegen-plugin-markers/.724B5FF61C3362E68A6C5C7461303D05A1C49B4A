@@ -1,0 +1,1 @@
+[-validate, -p, net.amazers.samples.camel.helloworldws.ws.gen, -wsdlLocation, wsdl/HelloWorld.wsdl, file:/C:/maz/work/Präsentationen/Goldschmiede%2029.04.2015%20Cassandra,%20SpringBoot,%20Camel/Camel/camel-projects/camel-helloworldWS/src/main/resources/wsdl/HelloWorld.wsdl]
